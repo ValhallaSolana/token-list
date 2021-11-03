@@ -59,20 +59,19 @@
   "tokens": [
   	 {
     "chainId": 101,
-    "address": "7JYZmXjHenJxgLUtBxgYsFfoABmWQFA1fW3tHQKUBThV",
-    "symbol": "WEED",
-    "name": "Solana Weed",
+    "address": "6Stk656jELqNBd6z9GMNdLQ7ZnAKbs29Ntr75QrWD7WW",
+    "symbol": "VAL",
+    "name": "VALHALLA",
     "decimals": 6,
-     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7JYZmXjHenJxgLUtBxgYsFfoABmWQFA1fW3tHQKUBThV/logo.png",
+     "logoURI": "https://static.wixstatic.com/media/91d078_d19c98f05cdd46f3bd53ede69877d62e~mv2.png/v1/fill/w_240,h_240,al_c,q_85,usm_0.66_1.00_0.01/valhalla_edited.webp",
       "tags": [
-        "social-token",
-        "utility-token"
+        "gaming-token",
+        "gaming-token"
       ],
       "extensions": {
-        "website": "https://solanaweed.com/",
-        "twitter": "https://twitter.com/SolanaWeed",
-        "telegram": "https://t.me/Solanaweed",
-        "discord": "https://discord.gg/3cshJ2gVz6"
+        "website": "https://www.valhallasolana.com/",
+        "twitter": "https://twitter.com/valhallasol",
+        "discord": "https://discord.gg/8XBkQX26"
       }
     },
   {
